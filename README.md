@@ -23,7 +23,7 @@ _Create a GitHub Action and use it in a workflow._
 
 _You've now got a fully functioning workflow! :smile:_
 
-Your new action will run any time a pull request has been opened.
+Your new action will run any time a pull request has been opened. Yes, let's continue.
 
 **Seeing your _action_ in action**: The status of your action is shown in a pull request before you merge, look for **All checks have passed** when you try out the steps below. You can also view them from the **Actions** tab in your repository. From there, you will see all the actions that have run, and you can click on each action to view details and access log files.
 
